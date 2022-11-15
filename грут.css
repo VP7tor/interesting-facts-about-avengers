@@ -1,5 +1,7 @@
 .grut{
-    height: 300px
+    height: 300px;
+    margin: 0 auto displain block;
+    
 }
 h1{
     text-align: center;
